@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👯Hey there,<br><br>🔭 I'm a full stack developer, focused on creating real world solutions.<br>🤝 Currently i work as a Web Developer<br>⚡ I'm also a game developer enthusiast
+<br>👯Hey there,<br><br>🔭 I'm a full stack developer, focused on creating real world solutions.<br>🤝 Currently working as a Web Developer<br>⚡ I'm also a game developer enthusiast
 
 
 ## 🌐 Socials:
